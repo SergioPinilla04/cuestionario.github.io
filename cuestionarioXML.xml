@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/madrid/Desktop/Cuestionario/XSL/cuestionarioXSL.xsl"?>
+<formulario>
+	<pregunta>¿Qué significa XML?
+		<respuesta>eXtensible Markup Language</respuesta>
+		<respuesta>eXtra Markup Language</respuesta>
+		<respuesta>eXclusive Markup Language</respuesta>
+		<respuesta>eXperimental Markup Language</respuesta>
+		<!-- Respuesta correcta: eXtensible Markup Language -->
+	</pregunta>
+	<pregunta>¿Cuál de los siguientes no es un lenguaje de marcado?
+		<respuesta>XML</respuesta>
+		<respuesta>HTML</respuesta>
+		<respuesta>CSS</respuesta>
+		<respuesta>JavaScript</respuesta>
+		<!-- Respuesta correcta: JavaScript -->
+	</pregunta>
+	<pregunta>¿Qué lenguaje de marcado se utiliza para dar formato a documentos XML? 	 	
+		<respuesta>HTML</respuesta>
+		<respuesta>XSL</respuesta>
+		<respuesta>XSLT</respuesta>
+		<respuesta>DTL</respuesta>
+		<!-- Respuesta correcta: XSL -->
+	</pregunta>
+	<pregunta>¿Qué es un esquema en XML?
+		<respuesta>Una descripción formal de la estructura y el contenido permitido en un documento XML</respuesta>
+		<respuesta>Una lista de elementos utilizados en un documento XML</respuesta>
+		<respuesta>Una regla que indica cómo se deben ordenar los elementos de un documento XML</respuesta>
+		<respuesta>Un conjunto de etiquetas que definen el formato de un documento XML</respuesta>
+		<!-- Respuesta correcta: Una descripción formal de la estructura y el contenido permitido en un documento XML -->
+	</pregunta>
+	<pregunta>¿Qué es XSL en XML?
+		<respuesta>Un lenguaje de transformación para convertir documentos XML a otros formatos</respuesta>
+		<respuesta>Un lenguaje de consulta para buscar y seleccionar elementos de un documento XML</respuesta>
+		<respuesta>Un lenguaje de marcado para dar formato a documentos XML</respuesta>
+		<respuesta>Un lenguaje de programación utilizado para procesar documentos XML</respuesta>
+		<!-- Respuesta correcta: Un lenguaje de transformación para convertir documentos XML a otros formatos -->
+	</pregunta>
+	<pregunta>¿Qué es XSLT en XML?
+		<respuesta>Un lenguaje de transformación para convertir documentos XML a otros formatos</respuesta>
+		<respuesta>Un lenguaje de consulta para buscar y seleccionar elementos de un documento XML</respuesta>
+		<respuesta>Un lenguaje de validación para comprobar la sintaxis de documentos XML</respuesta>
+		<respuesta>Un lenguaje de marcado para dar formato a documentos XML</respuesta>
+		<!-- Respuesta correcta: Un lenguaje de transformación para convertir documentos XML a otros formatos -->
+	</pregunta>
+	<pregunta>¿Qué es la serialización en XML?
+		<respuesta>El proceso de convertir un documento XML en un formato diferente, como HTML o PDF</respuesta>
+		<respuesta>El proceso de convertir un documento XML en un formato binario para su almacenamiento o transmisión</respuesta>
+		<respuesta>El proceso de validar la sintaxis de un documento XML</respuesta>
+		<respuesta>El proceso de transformar un documento XML usando una hoja de estilo XSLT</respuesta>
+		<!-- Respuesta correcta: El proceso de convertir un documento XML en un formato diferente, como HTML o PDF -->
+	</pregunta>
+	<pregunta>¿Cuál de los siguientes no es un tipo de nodo en XML?
+		<respuesta>Elemento</respuesta>
+		<respuesta>Atributo</respuesta>
+		<respuesta>Texto</respuesta>
+		<respuesta>Función</respuesta>
+		<!-- Respuesta correcta: Función -->
+	</pregunta>
+</formulario>
+
