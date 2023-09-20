@@ -5,21 +5,21 @@
 		<html>
 			<head>
 				<title>Cuestionario</title>
-				<link rel="stylesheet" type="text/css" href="../CSS/estilos.css"/>
+				<link rel="stylesheet" type="text/css" href="estilos.css"/>
 			</head>
 			<body>
 				<header>
-					<img src="./img/img1.png" alt="img1"/>
+					<img src="img1.png" alt="img1"/>
 				</header>
 				<nav class="topnav">
-					<a href="./index.html">Inicio</a>
+					<a href="index.html">Inicio</a>
 					<a href="#">Novedades</a>
-					<a href="./XML/cuestionarioXML.xml">Cuestionario XML</a>
+					<a href="cuestionarioXML.xml">Cuestionario XML</a>
 					<a href="#">Sobre nosotros</a>
 					<a href="#">Regístrate</a>
 				</nav>
 				<nav class="sidenav">
-					<img src="./img/img2.jpg" alt="img2"/>
+					<img src="img2.jpg" alt="img2"/>
 					<hr/>
 					<a href="#">Lenguaje de marcas</a>
 					<br/>
